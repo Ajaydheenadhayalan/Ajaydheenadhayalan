@@ -28,7 +28,7 @@
 - Full Stack Developer and AI tools explorer  
 - Frontend Intern, Sales Queen Software Solutions  
 - Trained 500+ students in Arduino and electronics  
-- Active Participation and Winners (SIH, Web Design, Code Competitions)  
+- Active Participation and Winner (SIH, Web Design, Code Competitions)  
 - Focused on building impactful, practical web and AI solutions  
 - Contact: **ajaydheenadhayalan123@gmail.com**
 
