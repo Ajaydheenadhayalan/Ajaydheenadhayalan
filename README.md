@@ -2,7 +2,7 @@
 <h3 align="center">Future Ready Software Developer | Web & AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=%7CEngineer+%7C+FullStack+Web+Developer;Python+%7C+React+%7C+AI tools explorer  ;I+design+and+build+scalable+apps" alt="TypingSVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=%7CEngineer+%7C+FullStack+Web+Developer;Python+%7C+React+%7C+AI+tools+explorer;I+design+and+build+scalable+apps" alt="Typing SVG" />
 </p>
 
 <p align="center">
